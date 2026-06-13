@@ -1,0 +1,6 @@
+{
+  "name": "Worm Lord",
+  "description": "A thrilling action-roguelike game merging classic Snake segment-collection mechanics with Vampire Survivors wave survival, auto-firing spells, and rival AI and local multiplayer combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
